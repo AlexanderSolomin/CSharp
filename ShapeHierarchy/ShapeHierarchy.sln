@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeHierarchy", "ShapeHierarchy.csproj", "{DCAB2016-4C1D-4D82-914E-C37DAA0D4D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAB2016-4C1D-4D82-914E-C37DAA0D4D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAB2016-4C1D-4D82-914E-C37DAA0D4D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAB2016-4C1D-4D82-914E-C37DAA0D4D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAB2016-4C1D-4D82-914E-C37DAA0D4D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9EACF3-04E1-46D6-8260-97BE2D4AE0E2}
+	EndGlobalSection
+EndGlobal
